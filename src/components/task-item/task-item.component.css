@@ -1,0 +1,16 @@
+.item-card{
+    border:1px solid grey;
+    margin:10px;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+.label-chip{
+    margin: 0 5px;
+}
+
+.chips-container{
+  margin-bottom: 5px;
+}
